@@ -1,3 +1,5 @@
+package rule
+
 import "embed"
 
 //go:embed *.txt
