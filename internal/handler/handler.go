@@ -13,8 +13,10 @@ import (
     "adg-dns-go/rule"
 )
 var upstreams = []string{
-  "https://cloudflare-dns.com/dns-query",
-  "https://dns.google/dns-query",
+"https://dns.alidns.com/dns-query",
+"https://doh.pub/dns-query",
+"https://dns.google/dns-query",
+"https://doh.360.cn/dns-query"
 }
 
 var client = &http.Client{
