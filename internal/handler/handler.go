@@ -16,9 +16,11 @@ import (
 )
 
 var upstreams = []string{
-    "https://dns.alidns.com/dns-query",
-    "https://doh.pub/dns-query",
-    "https://doh.360.cn/dns-query",
+    // "https://dns.alidns.com/dns-query",
+    // "https://doh.pub/dns-query",
+    // "https://doh.360.cn/dns-query",
+    "https://el3iud.i996.me/430624",
+    "https://adg.430624.xyz/430624",
 }
 
 var client = &http.Client{
