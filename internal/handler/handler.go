@@ -20,6 +20,7 @@ var upstreams = []string{
     // "https://doh.pub/dns-query",
     // "https://doh.360.cn/dns-query",
     "https://el3iud.i996.me/430624",
+    "https://adg-lb.430624.xyz/430624",
     "https://adg.430624.xyz/430624",
 }
 
