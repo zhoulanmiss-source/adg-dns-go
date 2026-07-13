@@ -521,3 +521,5 @@ zhebk.cn
 zixu.site
 zyadg.pgrm.top
 zylx.store
+pgrm.top
+zylx.store
