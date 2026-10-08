@@ -16,7 +16,7 @@ var upstreams = []string{
     // "https://dns.alidns.com/dns-query",
     // "https://doh.pub/dns-query",
     // "https://doh.360.cn/dns-query",
-    "https://adg-lb.430624.xyz/430624",
+    "https://cloudflare-dns.com/dns-query",
 }
 
 // 缓存时间，可按需修改
